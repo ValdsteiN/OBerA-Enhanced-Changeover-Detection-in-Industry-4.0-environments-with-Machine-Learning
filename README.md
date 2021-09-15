@@ -4,7 +4,7 @@ A repository with ML models of the OBerA project which goal is to optimize chang
 
 This repository belongs to the article ["Enhanced Changeover Detection in Industry 4.0 Environments with Machine Learning"](https://www.mdpi.com/1424-8220/21/17/5896/htm). Also, the link in text form: <https://www.mdpi.com/1424-8220/21/17/5896/htm>
 
-![MDPI QR code](qr-code.png)
+<img src="https://raw.githubusercontent.com/ValdsteiN/OBerA-Enhanced-Changeover-Detection-in-Industry-4.0-environments-with-Machine-Learning/main/qr-code.png" alt="MDPI QR code" width=250px />
 
 ### Errata 1
 
