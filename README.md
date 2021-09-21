@@ -12,4 +12,4 @@ Currently, the AUC score for the Neural Network in the article found in [figure 
 
 However, you might notice that in the notebook the AUC score for Neural Network is 86.46%.
 
-The AUC score in the notebook is the *correct* one. The discrepancy was caused by a rounding error and we apologize for that. We are doing our best to also fix it in the article.
+The AUC score in the notebook is the *correct* one. The discrepancy was caused by a rounding error and we apologize for that. We are doing our best to also fix it in the article. Nevertheless, this error by no means impacts the validity of the article, as even with the higher AUC score the Neural Network did not make it past our evaluation threshold.
