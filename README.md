@@ -6,7 +6,7 @@ This repository belongs to the article ["Enhanced Changeover Detection in Indust
 
 <img src="https://raw.githubusercontent.com/ValdsteiN/OBerA-Enhanced-Changeover-Detection-in-Industry-4.0-environments-with-Machine-Learning/main/qr-code.png" alt="MDPI QR code" width=250px />
 
-### Errata 1
+### Erratum 1
 
 Currently, the AUC score for the Neural Network in the article found in [figure 7](https://www.mdpi.com/sensors/sensors-21-05896/article_deploy/html/images/sensors-21-05896-g007.png) is 94.21%.
 
